@@ -1,4 +1,4 @@
-rname is simple rename utility. I don't like rename cmd syntax so i created this.
+rname is simple rename utility. Created just for fun.
 
 How to install:
 `sudo sh install.sh`
